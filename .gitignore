@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 /.vscode
-src/assets/Edward_Davis_Resume.pdf
+
+src/assets/projects/Edward_Davis_Resume.pdf
