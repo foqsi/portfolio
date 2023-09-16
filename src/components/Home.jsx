@@ -18,10 +18,10 @@ const Home = () => {
           Edward Davis
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Front End Developer.
+          I'm a Front End Developer
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a front end developer specializing in building (and occasionally
+          who specializes in building (and occasionally
           designing) exceptional digital experiences. Currently, I’m focused on
           building responsive web applications.
         </p>

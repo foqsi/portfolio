@@ -53,12 +53,12 @@ const Work = () => {
                     </button>
                   </a>
                 </div>
+                <div className="bottom-0 left-0 right-0 opacity-0 group-hover:opacity-100 transition-all ease-in-out duration-300">
+                  {item.desc}
+                </div>
               </div>
             </div>
-
           ))}
-
-
         </div>
       </div>
     </div>

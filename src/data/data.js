@@ -8,6 +8,7 @@ export const data = [
         name: "Portfolio Website",
         image: portfolio,
         github: "https://github.com/foqsi/react-portfolio",
+        desc: "This portfolio was built in a NodeJS package with React & TailwindCSS."
     },
     {
         id: 2,
@@ -15,6 +16,7 @@ export const data = [
         image: allcardb,
         github: "https://github.com/foqsi/allcardb",
         live: "https://www.allcardb.com",
+        desc: "This project uses React & SQL to display information about a selected vehicle."
     },
 
 ]
