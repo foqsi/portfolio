@@ -25,3 +25,5 @@ yarn-error.log*
 /.vscode
 
 src/assets/projects/Edward_Davis_Resume.pdf
+src/assets/projects/googleapi.png
+src/assets/projects/rtdb.png
