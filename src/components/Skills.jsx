@@ -38,10 +38,10 @@ const Skills = () => {
                         <i class="devicon-python-plain colored text-7xl" alt="PYTHON icon"></i>
                         <p className='my-4 cursor-default'>PYTHON</p>
                     </div> */}
-                    {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <i class="devicon-csharp-plain colored text-7xl" alt="CSHARP icon"></i>
                         <p className='my-4 cursor-default'>CSHARP</p>
-                    </div> */}
+                    </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <i class="devicon-nodejs-plain colored text-7xl" alt="NODEJS icon"></i>
                         <p className='my-4 cursor-default'>NODEJS</p>
