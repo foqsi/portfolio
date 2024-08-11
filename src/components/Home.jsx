@@ -18,7 +18,7 @@ const Home = () => {
           Edward Davis
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Front End Developer
+          I am a Software Developer
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           who specializes in building (and occasionally
