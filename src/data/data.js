@@ -1,8 +1,7 @@
 import portfolio from "../assets/projects/portfolio.png";
 import allcardb from "../assets/projects/allcardb.png";
-import unitedelite from "../assets/projects/unitedelite.png";
+import elrenonailspa from "../assets/projects/elrenonailspa.png";
 import weddingInvitation from "../assets/projects/wedding-invitation.png";
-import wsd from "../assets/projects/wsd-finalproject.png";
 import wsd2 from "../assets/projects/wsd-classproject.png";
 import csp from "../assets/projects/csp-classproject.png";
 
@@ -22,14 +21,14 @@ export const data = [
         live: "https://www.allcardb.com",
         desc: "This project uses React & an API to display information about a vehicle. Plan to implement search functionality & images.",
     },
-    // {
-    //     id: 3,
-    //     name: "United Elite - WIP",
-    //     image: unitedelite,
-    //     github: "https://github.com/foqsi/react-unitedelite",
-    //     live: "",
-    //     desc: "This is a project for a friend. A website for his business that allows him to display his services & contact information.",
-    // },
+    {
+        id: 3,
+        name: "El Reno Nail Spa - WIP",
+        image: elrenonailspa,
+        github: "https://github.com/foqsi/salon",
+        live: "https://www.elrenonailspa.com",
+        desc: "This Vue project is for a nail salon business. It allows users to create appointments and view services.",
+    },
     {
         id: 4,
         name: "Wedding Invitation",
@@ -40,14 +39,6 @@ export const data = [
     },
     {
         id: 5,
-        name: "WSD Project",
-        image: wsd,
-        github: "https://github.com/foqsi/WSD-FinalProject/tree/master",
-        live: "http://apollo.occc.edu/user3976/wsd/GlobalWeb/index.html",
-        desc: "This was a class final project for Web Site Development It is built with basic HTML & CSS."
-    },
-    {
-        id: 6,
         name: "WSD Project Store",
         image: wsd2,
         github: "https://github.com/foqsi/WSD-FinalProject/tree/second-project",
@@ -55,7 +46,7 @@ export const data = [
         desc: "This was project for the same Web Site class. It is built with basic HTML & CSS. It is a mock store."
     },
     {
-        id: 7,
+        id: 6,
         name: "CSP Project",
         image: csp,
         github: "https://github.com/foqsi/CSP-FinalProject",

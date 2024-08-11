@@ -15,6 +15,10 @@ const Skills = () => {
                         <p className='my-4 cursor-default'>REACT</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <i class="devicon-vuejs-plain colored text-7xl" alt="VUE icon"></i>
+                        <p className='my-4 cursor-default'>VUE</p>
+                    </div>
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <i class="devicon-tailwindcss-plain colored text-7xl" alt="TAILWINDCSS icon"></i>
                         <p className='my-4 cursor-default'>TAILWIND</p>
                     </div>
@@ -22,41 +26,21 @@ const Skills = () => {
                         <i class="devicon-css3-plain colored text-7xl" alt="CSS3 icon"></i>
                         <p className='my-4 cursor-default'>CSS</p>
                     </div>
-                    {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-bootstrap-plain colored text-7xl" alt="BOOTSTRAP icon"></i>
-                        <p className='my-4 cursor-default'>BOOTSTRAP</p>
-                    </div> */}
-                    {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-jquery-plain colored text-7xl" alt="jQUERY icon"></i>
-                        <p className='my-4 cursor-default'>jQUERY</p>
-                    </div> */}
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <i class="devicon-javascript-plain colored text-7xl" alt="JAVASCRIPT icon"></i>
                         <p className='my-4 cursor-default'>JAVASCRIPT</p>
-                    </div>
-                    {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-python-plain colored text-7xl" alt="PYTHON icon"></i>
-                        <p className='my-4 cursor-default'>PYTHON</p>
-                    </div> */}
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-csharp-plain colored text-7xl" alt="CSHARP icon"></i>
-                        <p className='my-4 cursor-default'>CSHARP</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <i class="devicon-nodejs-plain colored text-7xl" alt="NODEJS icon"></i>
                         <p className='my-4 cursor-default'>NODEJS</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-html5-plain colored text-7xl" alt="HTML icon"></i>
-                        <p className='my-4 cursor-default'>HTML</p>
+                        <i class="devicon-php-plain colored text-7xl" alt="PHP icon"></i>
+                        <p className='my-4 cursor-default'>PHP</p>
                     </div>
-                    {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-git-plain colored text-7xl" alt="GIT icon"></i>
-                        <p className='my-4 cursor-default'>GIT</p>
-                    </div> */}
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <i class="devicon-github-original text-7xl" alt="GITHUB icon"></i>
-                        <p className='my-4 cursor-default'>GITHUB</p>
+                        <i class="devicon-python-plain colored text-7xl" alt="PYTHON icon"></i>
+                        <p className='my-4 cursor-default'>PYTHON</p>
                     </div>
                 </div>
             </div>
