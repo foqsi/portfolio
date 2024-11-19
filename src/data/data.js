@@ -1,8 +1,7 @@
 import portfolio from "../assets/projects/portfolio.png";
 import allcardb from "../assets/projects/allcardb.png";
 import elrenonailspa from "../assets/projects/elrenonailspa.png";
-import weddingInvitation from "../assets/projects/wedding-invitation.png";
-import wsd2 from "../assets/projects/wsd-classproject.png";
+import pchr from "../assets/projects/pchr.png";
 import csp from "../assets/projects/csp-classproject.png";
 
 export const data = [
@@ -31,22 +30,13 @@ export const data = [
     },
     {
         id: 4,
-        name: "Wedding Invitation",
-        image: weddingInvitation,
-        github: "https://github.com/foqsi/wedding-invitation",
-        live: "http://apollo.occc.edu/user3976/invitation/public/index.html",
-        desc: "This was a project for a friend. A simple wedding invitation website that allows us to track RSVPs with a realtime DB.",
+        name: "Personal Care Health Record - NO LIVE",
+        image: pchr,
+        github: "https://github.com/foqsi/CSharp-PCHR",
+        desc: "C# Class Project. Provided with an unfinished DB, I used Migration Builder to modify it to create *-1 & *-* relationships.",
     },
     {
         id: 5,
-        name: "WSD Project Store",
-        image: wsd2,
-        github: "https://github.com/foqsi/WSD-FinalProject/tree/second-project",
-        live: "http://apollo.occc.edu/user3976/wsd/pacific14/index.html",
-        desc: "This was project for the same Web Site class. It is built with basic HTML & CSS. It is a mock store."
-    },
-    {
-        id: 6,
         name: "CSP Project",
         image: csp,
         github: "https://github.com/foqsi/CSP-FinalProject",

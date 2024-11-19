@@ -17,9 +17,12 @@ const About = () => {
             <p>Computer Science student.</p>
           </div>
           <div>
-            <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for individual clients and small businesses.</p>
+            <p>
+              Currently working on a BT degree in Software Development and work on my own personal projects. 
+              I have been programming for almost three years.
+              <br/>
+              I enjoy gaming and turning wrenches in my free time.
+              </p>
           </div>
         </div>
       </div>
