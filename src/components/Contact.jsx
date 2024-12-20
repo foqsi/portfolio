@@ -48,7 +48,7 @@ const Contact = () => {
   return (
     <div className='bg-[#0a192f] relative -z-10 pt-32 sm:pt-0'>
       
-      <div className=' absolute left-[10%] top-[30%] flex transform -rotate-45 invisible sm:visible'>
+      <div className=' absolute left-[10%] top-[30%] flex transform -rotate-45 invisible lg:visible'>
         <ImArrowLeft2 className='text-cyan-300 text-2xl'/>
         <p className='text-gray-300 text-xl ml-4'>Or find me here!</p>
         
