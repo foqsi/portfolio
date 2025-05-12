@@ -12,7 +12,6 @@ function App() {
     <div>
       <Navbar />
       <div>
-        {/* Define each section as an "Element" for smooth scrolling */}
         <Element name="home">
           <Home />
         </Element>

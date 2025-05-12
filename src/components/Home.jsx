@@ -20,14 +20,14 @@ const Home = () => {
             Edward Davis
           </h1>
           <div className='flex items-center ml-24'>
-            <TfiLocationPin className='text-cyan-300 mr-2'/>
+            <TfiLocationPin className='text-cyan-300 mr-2' />
             <p className='text-[#8892b0] py-4 max-w-[700px]'>Oklahoma, USA</p>
           </div>
         </div>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Front End Developer
+          I'm a Full-Stack Developer
         </h2>
-        
+
         <div>
           <Link onClick={handleClick} to='work' smooth={true} duration={1500}>
             <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-cyan-400 hover:border-cyan-400'>

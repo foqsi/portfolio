@@ -7,26 +7,26 @@ import csp from "../assets/projects/csp-classproject.png";
 export const data = [
     {
         id: 1,
+        name: "El Reno Nail Spa",
+        image: elrenonailspa,
+        github: "https://github.com/foqsi/react-salon",
+        live: "https://www.elrenonailspa.com",
+        desc: "Simple site for a nail salon. Admin can update banner, gallery, and services (Postgres). Appointment form with limits—no past dates or overbooking. Uses EmailJS for notifications.",
+    },
+    {
+        id: 2,
         name: "Portfolio Website",
         image: portfolio,
         github: "https://github.com/foqsi/react-portfolio",
         desc: "This portfolio was built in a NodeJS package with React & TailwindCSS to display my projects.",
     },
     {
-        id: 2,
+        id: 3,
         name: "Car DB - WIP",
         image: allcardb,
         github: "https://github.com/foqsi/allcardb",
         live: "https://www.allcardb.com",
         desc: "This project uses React & an API to display information about a vehicle. Plan to implement search functionality & images.",
-    },
-    {
-        id: 3,
-        name: "El Reno Nail Spa - WIP",
-        image: elrenonailspa,
-        github: "https://github.com/foqsi/salon",
-        live: "https://www.elrenonailspa.com",
-        desc: "This Vue project is for a nail salon business. It allows users to create appointments and view services.",
     },
     {
         id: 4,
